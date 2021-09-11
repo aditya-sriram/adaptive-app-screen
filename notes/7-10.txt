@@ -1,0 +1,10 @@
+learn about google colab
+	look at examples and tensorflow and python
+learn about 3 algorithms
+	linear regression
+	random forest
+	CNN
+use python/colab to cleanse data
+	"Application" data
+	get 20,000
+split 80/20 for training/testing 
